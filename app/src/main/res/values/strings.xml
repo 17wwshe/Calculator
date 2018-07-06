@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="bt_0">0</string>
+    <string name="bt_1">1</string>
+    <string name="bt_2">2</string>
+    <string name="bt_3">3</string>
+    <string name="bt_4">4</string>
+    <string name="bt_5">5</string>
+    <string name="bt_6">6</string>
+    <string name="bt_7">7</string>
+    <string name="bt_8">8</string>
+    <string name="bt_9">9</string>
+
+    <string name="bt_add">+</string>
+    <string name="bt_sub">-</string>
+    <string name="bt_div">÷</string>
+    <string name="bt_multiply">×</string>
+    <string name="bt_sin">sin</string>
+    <string name="bt_cos">cos</string>
+    <string name="bt_tan">tan</string>
+    <string name="bt_C">C</string>
+    <string name="bt_DEL">DEL</string>
+    <string name="bt_square">X^2</string>
+    <string name="bt_cube">X^3</string>
+    <string name="bt_Nth">X^Y</string>
+    <string name="bt_factory">!</string>
+    <string name="bt_sqrt">√</string>
+    <string name="bt_dao">1/X</string>
+    <string name="bt_equals">=</string>
+    <string name="bt_du">"°"</string>
+    <string name="bt_ln">ln</string>
+    <string name="bt_lg">lg</string>
+    <string name="bt_per">%</string>
+    <string name="bt_point">.</string>
+
+    <string name="TestView_name">请输入</string>
+
+
+
+
+</resources>
